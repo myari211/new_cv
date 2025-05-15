@@ -63,7 +63,7 @@ export default function Home() {
       id: 1,
       title: "Lolypoly",
       description: "Ecommerce for Lolypoly",
-      image: "/image/lolypoly.png",
+      image: "/new_cv/image/lolypoly.png",
       longDesc: "An e-commerce platform where customers can shop and earn membership points and rewards for discount vouchers.",
       tech: [
         "Laravel",
@@ -77,7 +77,7 @@ export default function Home() {
       id: 2,
       title: "System Manager | AKR (Internal)",
       description: "Portal for all system of internal system AKR",
-      image: "/image/sysman.jpg",
+      image: "/new_cv/image/sysman.jpg",
       longDesc: "An internal portal platform that allows users with different roles to interact with various internal software systems using initial credential authentication.",
       tech: [
         "Laravel",
@@ -91,7 +91,7 @@ export default function Home() {
       id: 3,
       title: "Stock Monitoring",
       description: "System Monitoring for all tank and all product AKR Corporindo",
-      image: "/image/akr.png",
+      image: "/new_cv/image/akr.png",
       longDesc: "A platform to calculate oil stock data in each tank located at ports and refineries across Indonesia",
       tech: [
         "C# MVC",
@@ -105,7 +105,7 @@ export default function Home() {
       id: 4,
       title: "WIMS (Web Incident Management System | AKR (Internal)",
       description: "Web Incident Management For AKR Corporindo",
-      image: "/image/wims.jpg",
+      image: "/new_cv/image/wims.jpg",
       longDesc: "An internal ticketing platform based on M-Files.",
       tech: [
         "Laravel",
@@ -119,7 +119,7 @@ export default function Home() {
       id: 5,
       title: "FlipFlopTV",
       description: "An OTT platform that provides interesting shows for entertainment from series, short films and movies",
-      image: "/image/flipfloptv.png",
+      image: "/new_cv/image/flipfloptv.png",
       longDesc: "An OTT platform where users can watch paid videos.",
       tech: [
         "Laravel",
@@ -136,7 +136,7 @@ export default function Home() {
       id: 6,
       title: "Proworker",
       description: "A platform based in Bekasi, West Java, for job seekers and seekers for skilled workers, especially those working in the oil and gas sector",
-      image: "/image/proworker.png",
+      image: "/new_cv/image/proworker.png",
       tech: [
         "Laravel",
         "Jquery",
@@ -151,7 +151,7 @@ export default function Home() {
       title: "Body Gravity",
       description: "company profile platform and system for attendance, payroll, scoliosis data collection, Scheduling System, and stock",
       longDesc: "A platform that combines company profiling with employee attendance and payroll management systems.",
-      image: "/image/body_gravity.png",
+      image: "/new_cv/image/body_gravity.png",
       tech: [
         "Laravel",
         "Jquery",
@@ -164,7 +164,7 @@ export default function Home() {
       title: "SKPR Asia",
       description: "the platform provides several products and public relations",
       longDesc: "A talent acquisition and management system designed to recruit and manage public relations (PR) professionals.",
-      image: "/image/skpr_asia.png",
+      image: "/new_cv/image/skpr_asia.png",
       tech: [
         "Laravel",
         "Jquery",
@@ -177,7 +177,7 @@ export default function Home() {
       title: "UKM Volley Gunadarma",
       description: "Gunadarma Volleyball UMKM Portal",
       longDesc: "A membership management platform for the Gunadarma University Volleyball Club.",
-      image: "/image/oca.png",
+      image: "/new_cv/image/oca.png",
       tech: [
         "Laravel",
         "Jquery",
@@ -190,7 +190,7 @@ export default function Home() {
       title: "Caleb Technology",
       description: "company profile, CMS, and Recruiting System",
       longDesc: "Developed a company profile CMS for PT Caleb Technology, enabling easy content updates and centralized management of company information.",
-      image: "/image/caleb.png",
+      image: "/new_cv/image/caleb.png",
       tech: [
         "Laravel",
         "Jquery",
@@ -204,7 +204,7 @@ export default function Home() {
     
     {
       id: 1,
-      image: "/image/skly.jpg",
+      image: "/new_cv/image/skly.jpg",
       position: "Web Developer",
       company: "CV Surya Kencana Lintas Yasa",
       duration: "2016 - 2017",
@@ -226,7 +226,7 @@ export default function Home() {
     },
     {
       id: 2,
-      image: "/image/dynamax.jpeg",
+      image: "/new_cv/image/dynamax.jpeg",
       position: "System Engineer",
       company: "Dynamax",
       duration: "2017 - 2020",
@@ -246,7 +246,7 @@ export default function Home() {
     },
     {
       id: 3,
-      image: "/image/proworkerlogo.png",
+      image: "/new_cv/image/proworkerlogo.png",
       position: "Fullstack Developer",
       company: "Proworker",
       duration: "2020 - 2022",
@@ -271,7 +271,7 @@ export default function Home() {
     },
     {
       id: 4,
-      image: "/image/flipfloplogo.png",
+      image: "/new_cv/image/flipfloplogo.png",
       position: "Fullstack Developer",
       company: "FlipFlopTV",
       duration: "2022 - 2023",
@@ -300,7 +300,7 @@ export default function Home() {
     },
     {
       id: 5,
-      image: "/image/elabram.jpg",
+      image: "/new_cv/image/elabram.jpg",
       position: "Fullstack Developer",
       company: "Elabram System",
       duration: "2023 = 2025",
