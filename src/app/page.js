@@ -355,7 +355,7 @@ export default function Home() {
 
   const handleCV = () => {
     const link = document.createElement('a');
-    link.href = '/new_cv.pdf'; // Asumsikan file ada di folder "public"
+    link.href = '/new_cv/new_cv.pdf'; // Asumsikan file ada di folder "public"
     link.download = 'Ari_Pratama_CV.pdf'; // Nama file yang akan didownload
     document.body.appendChild(link);
     link.click();
@@ -371,7 +371,7 @@ export default function Home() {
               <Row justify="center" className="pt-5">
                 <Col>
                   <div className="img-container">
-                    <img src="/image/photo_profile.jpg" className="w-100 rounded-circle" />
+                    <img src="/new_cv/image/photo_profile.jpg" className="w-100 rounded-circle" />
                   </div>
                 </Col>
               </Row>
@@ -445,57 +445,57 @@ export default function Home() {
                         {...sliderSettings}>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/react.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/react.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/vue.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/vue.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/html.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/html.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/css.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/css.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/javascript.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/javascript.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/php.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/php.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/laravel.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/laravel.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/mongo.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/mongo.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/mysql.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/mysql.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/github.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/github.png" />
                             </Flex>
                           </div>
                           <div>
                             <Flex align="center" justify="center">
-                              <img style={{ height: "200px"}} src="/image/mvc.png" />
+                              <img style={{ height: "200px"}} src="/new_cv/image/mvc.png" />
                             </Flex>
                           </div>
                         </Slider>

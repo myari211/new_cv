@@ -1,11 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
-    basePath: '/new_cv',
-    assetPrefix: '/new_cv/',
-    images: {
-        unoptimized: true,
-    },
+    basePath: "/new_cv",
+    output: "export",  // <=== enables static exports
+    reactStrictMode: true,
 };
 
 export default nextConfig;
